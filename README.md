@@ -9,7 +9,7 @@ This project simulates a modern enterprise data platform where raw data is inges
 
 The pipeline is designed using Databricks notebooks and PySpark, with Delta Lake providing ACID transactions, schema enforcement, and efficient storage for reliable data processing.
 
-Please refer the **Problem Statement and Solution.txt** file to check the real world scenario used for this project.
+Please refer the **Problem Statement and Solution.txt** file to check out the real world scenario used for this project.
 
 ---
 
