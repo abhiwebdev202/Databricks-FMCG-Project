@@ -1,4 +1,5 @@
 Problem Statement
+
 Introduction
 
 A recent business acquisition requires integrating data from two organizations into a single analytics platform.
@@ -33,6 +34,7 @@ Inconsistent business metrics
 Conflicting sales figures
 Duplicate and mismatched records
 Difficulties in supply chain and inventory planning
+
 Proposed Solution
 
 Build a reliable and scalable data engineering pipeline that integrates data from both companies into a unified analytics layer.
@@ -45,6 +47,7 @@ Clean and validate inconsistent records
 Handle missing historical data
 Align business metrics across both companies
 Produce a trusted, analytics-ready dataset
+
 Success Criteria
 
 The project will be considered successful if it can:
