@@ -1,0 +1,61 @@
+Problem Statement
+Introduction
+
+A recent business acquisition requires integrating data from two organizations into a single analytics platform.
+
+Parent Company: AtliQon – a sports products manufacturer.
+Child Company: Sports Bar – a company producing a wide range of sports-related products.
+
+Following the acquisition, the parent company aims to consolidate reporting, supply chain operations, and inventory planning across both businesses.
+
+Business Challenges
+
+During the integration process, several data quality and consistency issues were identified:
+
+Missing Historical Data
+
+Some months of the child company's historical sales data are missing due to data loss during its rapid growth phase.
+
+Schema Mismatch
+
+The two companies store data using different formats and levels of granularity.
+
+Examples include:
+
+Parent company records sales on a monthly basis.
+Child company records sales on a daily basis.
+Different column names, data types, and business rules across datasets.
+Data Inconsistency
+
+The lack of a unified data model has resulted in:
+
+Inconsistent business metrics
+Conflicting sales figures
+Duplicate and mismatched records
+Difficulties in supply chain and inventory planning
+Proposed Solution
+
+Build a reliable and scalable data engineering pipeline that integrates data from both companies into a unified analytics layer.
+
+The solution will:
+
+Ingest data from both organizations
+Standardize schemas and data formats
+Clean and validate inconsistent records
+Handle missing historical data
+Align business metrics across both companies
+Produce a trusted, analytics-ready dataset
+Success Criteria
+
+The project will be considered successful if it can:
+
+Deliver a unified reporting layer for both companies.
+Provide accurate and reliable analytics through a single dashboard.
+Produce consistent sales and inventory metrics across both businesses.
+Be easy to understand, maintain, and extend by junior data engineers.
+Follow scalable data engineering best practices, making it suitable as a long-term enterprise solution.
+Support future business growth by accommodating additional data sources with minimal changes.
+
+
+
+
